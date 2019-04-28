@@ -6,6 +6,12 @@
 npm i -g parcel-bundler
 ```
 
+📜 Install Dependencies
+
+```shell
+npm i
+```
+
 🏃‍ Run
 
 ```shell
