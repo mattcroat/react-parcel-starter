@@ -1,15 +1,17 @@
 # ⚛React-📦Parcel 🏁Starter
 
+## Getting Started
+
 📜 Install Parcel
 
 ```shell
 npm i -g parcel-bundler
 ```
 
-📜 Install Dependencies
+📜 Clone Repo and Install Dependencies
 
 ```shell
-npm i
+git clone https://github.com/mattcroat/react-parcel-starter.git . && npm i
 ```
 
 🏃‍ Run
@@ -19,6 +21,8 @@ npm start
 ```
 
 🌍 Visit http://localhost:3000
+
+## Other
 
 📦 Build
 
